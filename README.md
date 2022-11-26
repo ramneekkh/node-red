@@ -2,10 +2,11 @@
 
 ###Pre Req
 
+```bash
 1 - GKE cluster deployed ?
 2 - Ensure Persistent Storage class is enabled ?
 3 - Validate Storage Class by running kubectl get sc 
-
+```
 
 ### Installing the Chart 📦
 To install the chart with the release name node-red run:
